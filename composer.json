@@ -1,6 +1,13 @@
 {
-    "name": "cretueusebiu/laravel-vue-spa",
+    "name": "doyolabs/universal-remote-bridge",
     "description": "A Laravel-Vue SPA starter project template.",
+    "authors": [
+      {
+        "name": "Anthonius Munthi",
+        "homepage": "https://itstoni.com",
+        "role": "owner"
+      }
+    ],
     "keywords": ["spa", "laravel", "vue"],
     "license": "MIT",
     "type": "project",
